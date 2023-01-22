@@ -1,3 +1,113 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://example.com/"
+languageCode = "en"
+title = "Jekdmi Tech Edits"
+theme = "hugo-initio"
+
+[params]
+    name = "Jekaterina Dmitrijeva"
+    description = "Technical editor for knitting patterns"
+    email = "jekdmi.tech.edits@gmail.com"
+    year = 2023
+    avatar = "images/me.webp"
+    avatarclass = "circle"
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 1, 2020"
+    author = "Jekaterina Dmitrijeva"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownloads = false
+    showClients = false
+
+    showFooterContact = true
+    showFooterFollowMe = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "technical edit"
+    url = "/home/services/technical_edit"
+    weight = 2
+[[menu.main]]
+    name = "portfolio"
+    url = "/portfolio/"
+    weight = 3
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 5
+[[menu.main]]
+    name = "garments"
+	parent = "portfolio"
+    url = "/categories/garments"
+    weight = 7	
+[[menu.main]]
+    name = "socks and mitts"
+	parent = "portfolio"
+    url = "/categories/socks_and_mitts"
+    weight = 8	
+[[menu.main]]
+    name = "shawls, cowls, scarfs"
+	parent = "portfolio"
+    url = "/categories/shawls"
+    weight = 9
+[[menu.main]]
+    name = "hats"
+	parent = "portfolio"
+    url = "/categories/hats"
+    weight = 10
+[[menu.main]]
+    name = "other knits"
+	parent = "portfolio"
+    url = "/categories/other_knits"
+    weight = 11
+[[menu.main]]
+    name = "editing for publications"
+	parent = "portfolio"
+    url = "/categories/publications"
+    weight = 13
+
+[params.disqus]
+    site = "jekdmi-tech.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/Jekdmi.Designs"
+    icon = "fab fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/jekdmi.tech.edits/"
+    icon = "fab fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/jekaterinadmitrijeva/"
+    icon = "fab fa-linkedin"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "email"
+	url = "jekdmi.tech.edits@gmail.com"
+    icon = "fas fa-envelope-square"
+    footer = false
+    sharethis = true
+    network = "email"
