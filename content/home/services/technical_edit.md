@@ -31,9 +31,8 @@ Charts and stitch patterns:​
 * charts/instructions work out in the general - a number of repeats, increases, decreases, etc.
 
 ## Pricing
-*From 1st of March, 2023 my rate is 28 Eur/h.*
 
-My current rate is 25 Eur/h. I keep careful time tracking when working, in 15 minutes intervals.
+My current rate is 28 Eur/h. I keep careful time tracking when working, in 15 minutes intervals.
 I accept PayPal, Revolut, Google Pay, bank transfers.
 
 To give you the approximate estimate, here are some ideas on how long the edit could take for specific items: 

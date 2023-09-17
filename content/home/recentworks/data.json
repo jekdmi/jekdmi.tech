@@ -1,9 +1,9 @@
 [
-    {
+{
         "id": 100,
-        "name": "Yoke Meditation Series #2 by Zaneteknits",
-        "image": "images/yoke_meditation_crop.jpg",
-        "url": "/portfolio/yoke_meditation/",
+        "name": "Finer Pagan Sky by Zaneteknits",
+        "image": "images/finer_pagan_sky_cropped.jpg",
+        "url": "/portfolio/finer_pagan_sky/",
         "items": [
             {
                 "name": "Garments",
@@ -21,15 +21,15 @@
     },
     {
         "id": 101,
-        "name": "Melancholia sweater by Zaneteknits",
-        "image": "images/melancholia_sweater_crop.jpg",
-        "url": "/portfolio/melancholia_sweater/",
+        "name": "Valmiera Memory Socks by Zaneteknits",
+        "image": "images/valmiera_memory_socks_cropped.jpg",
+        "url": "/portfolio/valmiera_memory_socks/",
         "items": [
             {
-                "name": "Garments",
-                "url": "/categories/garments"
+                "name": "Socks",
+                "url": "/categories/socks_and_mitts"
             },
-            {
+			{
                 "name": "Colorwork",
                 "url": "/categories/colorwork"
             },
@@ -41,13 +41,17 @@
     },
     {
         "id": 102,
-      "name": "Rhubarb and Custard Socks by Zanete Knits",
-        "image": "images/rhubarb_and_custard_crop.jpeg",
-        "url": "/portfolio/rhubarb_and_custard_socks",
+        "name": "Unravel Memory Socks by Zaneteknits",
+        "image": "images/unravel_memory_socks_cropped.jpg",
+        "url": "/portfolio/unravel_memory_socks/",
         "items": [
             {
                 "name": "Socks",
-                "url": "/categories/socks"
+                "url": "/categories/socks_and_mitts"
+            },
+            {
+                "name": "Colorwork",
+                "url": "/categories/colorwork"
             },
             {
                 "name": "Adults",
@@ -57,21 +61,13 @@
     },
     {
         "id": 103,
-        "name": "Mykasaurus sweater by Zaneteknits",
-        "image": "images/mykasaurus_sweater_crop.jpg",
-        "url": "/portfolio/mykasaurus_sweater",
+        "name": "Stop, Drol & Roll by Antonia Cavaliere",
+        "image": "images/stop_drop_roll_cowl_cropped.jpg",
+        "url": "/portfolio/stop_drop_roll_cowl",
         "items": [
             {
-                "name": "Garments",
-                "url": "/categories/garments"
-            },
-            {
-                "name": "Colorwork",
-                "url": "/categories/colorwork"
-            },
-			{
-                "name": "Kids",
-                "url": "/categories/kids"
+                "name": "Shawls",
+                "url": "/categories/shawls"
             },
             {
                 "name": "Adults",
@@ -81,13 +77,17 @@
     },
     {
         "id": 104,
-        "name": "Ziggy Hat by Melissa Littlefield",
-        "image": "images/ziggy_hat_crop.heic",
-        "url": "/portfolio/ziggy_hat",
+        "name": "Song Of The Moon Sweater by Zaneteknits",
+        "image": "images/song_of_the_moon_cropped.jpg",
+        "url": "/portfolio/song_of_the_moon",
         "items": [
             {
-                "name": "Hats",
-                "url": "/categories/hats"
+                "name": "Garments",
+                "url": "/categories/garments"
+            },
+            {
+                "name": "Colorwork",
+                "url": "/categories/colorwork"
             },
             {
                 "name": "Adults",
@@ -98,12 +98,16 @@
     {
         "id": 105,
         "name": "Marquisette Sweater by Zanete Knits",
-        "image": "images/marquisette_sweater_crop.jpeg",
-        "url": "/portfolio/marquisette_sweater/",
+        "image": "images/wildcat_cropped.jpg",
+        "url": "/portfolio/wildcat/",
         "items": [
             {
                 "name": "Garments",
                 "url": "/categories/garments"
+            },
+			{
+                "name": "Colorwork",
+                "url": "/categories/colorwork"
             },
             {
                 "name": "Adults",
