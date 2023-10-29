@@ -1,5 +1,45 @@
 [
 {
+        "id": 99,
+        "name": "Smilgas Cardigan by Zaneteknits",
+        "image": "images/smilgas_cardigan_crop.jpg",
+        "url": "/portfolio/smilgas_cardigan/",
+        "items": [
+            {
+                "name": "Garments",
+                "url": "/categories/garments"
+            },
+            {
+                "name": "Colorwork",
+                "url": "/categories/colorwork"
+            },
+            {
+                "name": "Adults",
+                "url": "/categories/adults"
+            }
+        ]
+    },
+{
+        "id": 99,
+        "name": "Zalktis Pullover by Zaneteknits",
+        "image": "images/zalktis_pullover_crop.jpeg",
+        "url": "/portfolio/zalktis_pullover/",
+        "items": [
+            {
+                "name": "Garments",
+                "url": "/categories/garments"
+            },
+            {
+                "name": "Colorwork",
+                "url": "/categories/colorwork"
+            },
+            {
+                "name": "Adults",
+                "url": "/categories/adults"
+            }
+        ]
+    },
+{
         "id": 100,
         "name": "Finer Pagan Sky by Zaneteknits",
         "image": "images/finer_pagan_sky_cropped.jpg",
@@ -68,46 +108,6 @@
             {
                 "name": "Shawls",
                 "url": "/categories/shawls"
-            },
-            {
-                "name": "Adults",
-                "url": "/categories/adults"
-            }
-        ]
-    },
-    {
-        "id": 104,
-        "name": "Song Of The Moon Sweater by Zaneteknits",
-        "image": "images/song_of_the_moon_cropped.jpg",
-        "url": "/portfolio/song_of_the_moon",
-        "items": [
-            {
-                "name": "Garments",
-                "url": "/categories/garments"
-            },
-            {
-                "name": "Colorwork",
-                "url": "/categories/colorwork"
-            },
-            {
-                "name": "Adults",
-                "url": "/categories/adults"
-            }
-        ]
-    },
-    {
-        "id": 105,
-        "name": "Marquisette Sweater by Zanete Knits",
-        "image": "images/wildcat_cropped.jpg",
-        "url": "/portfolio/wildcat/",
-        "items": [
-            {
-                "name": "Garments",
-                "url": "/categories/garments"
-            },
-			{
-                "name": "Colorwork",
-                "url": "/categories/colorwork"
             },
             {
                 "name": "Adults",
