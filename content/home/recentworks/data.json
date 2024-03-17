@@ -1,5 +1,41 @@
 [
 {
+        "id": 97,
+        "name": "Asterie by Natasja Hornby",
+        "image": "images/asterie_crop.jpg",
+        "url": "/portfolio/asterie/",
+        "items": [
+            {
+                "name": "Garments",
+                "url": "/categories/garments"
+            },
+            {
+                "name": "Adults",
+                "url": "/categories/adults"
+            }
+        ]
+    },
+{
+        "id": 98,
+        "name": "Yoke Meditation #4 by Zaneteknits",
+        "image": "images/yoke_meditation_4_cropped.jpg",
+        "url": "/portfolio/yoke_meditation_4/",
+        "items": [
+            {
+                "name": "Garments",
+                "url": "/categories/garments"
+            },
+            {
+                "name": "Colorwork",
+                "url": "/categories/colorwork"
+            },
+            {
+                "name": "Adults",
+                "url": "/categories/adults"
+            }
+        ]
+    },
+{
         "id": 99,
         "name": "Smilgas Cardigan by Zaneteknits",
         "image": "images/smilgas_cardigan_crop.jpg",
@@ -72,42 +108,6 @@
 			{
                 "name": "Colorwork",
                 "url": "/categories/colorwork"
-            },
-            {
-                "name": "Adults",
-                "url": "/categories/adults"
-            }
-        ]
-    },
-    {
-        "id": 102,
-        "name": "Unravel Memory Socks by Zaneteknits",
-        "image": "images/unravel_memory_socks_cropped.jpg",
-        "url": "/portfolio/unravel_memory_socks/",
-        "items": [
-            {
-                "name": "Socks",
-                "url": "/categories/socks_and_mitts"
-            },
-            {
-                "name": "Colorwork",
-                "url": "/categories/colorwork"
-            },
-            {
-                "name": "Adults",
-                "url": "/categories/adults"
-            }
-        ]
-    },
-    {
-        "id": 103,
-        "name": "Stop, Drol & Roll by Antonia Cavaliere",
-        "image": "images/stop_drop_roll_cowl_cropped.jpg",
-        "url": "/portfolio/stop_drop_roll_cowl",
-        "items": [
-            {
-                "name": "Shawls",
-                "url": "/categories/shawls"
             },
             {
                 "name": "Adults",

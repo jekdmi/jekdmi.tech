@@ -1,5 +1,5 @@
 +++
-title = "Valmiera Memory Socks by Zanete Knits"
+title = "Unravel Memory Socks by Zanete Knits"
 weight = 98
 categories = ["Socks_and_Mitts", "Adults"]
 +++
