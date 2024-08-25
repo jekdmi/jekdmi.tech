@@ -1,9 +1,57 @@
 [
 {
+        "id": 94,
+        "name": "Chorus camisole by Zaneteknits",
+        "image": "images/chorus_camisole_crop.jpg",
+        "url": "/portfolio/chorus_camisole/",
+        "items": [
+            {
+                "name": "Garments",
+                "url": "/categories/garments"
+            },
+            {
+                "name": "Adults",
+                "url": "/categories/adults"
+            }
+        ]
+    },
+	{
+        "id": 95,
+        "name": "Moonglow top by Zaneteknits",
+        "image": "images/moonglow_crop.png",
+        "url": "/portfolio/moonglow/",
+        "items": [
+            {
+                "name": "Garments",
+                "url": "/categories/garments"
+            },
+            {
+                "name": "Adults",
+                "url": "/categories/adults"
+            }
+        ]
+    },
+	{
+        "id": 96,
+        "name": "Dreamwelt sweater by Zaneteknits",
+        "image": "images/dreamwelt_crop.png",
+        "url": "/portfolio/dreamwelt/",
+        "items": [
+            {
+                "name": "Garments",
+                "url": "/categories/garments"
+            },
+            {
+                "name": "Adults",
+                "url": "/categories/adults"
+            }
+        ]
+    },
+	{
         "id": 97,
-        "name": "Asterie by Natasja Hornby",
-        "image": "images/asterie_crop.jpg",
-        "url": "/portfolio/asterie/",
+        "name": "Summer solstice top by Julee Mackessy",
+        "image": "images/summer_solstice_crop.jpg",
+        "url": "/portfolio/summer_solstice/",
         "items": [
             {
                 "name": "Garments",
@@ -17,17 +65,13 @@
     },
 {
         "id": 98,
-        "name": "Yoke Meditation #4 by Zaneteknits",
-        "image": "images/yoke_meditation_4_cropped.jpg",
-        "url": "/portfolio/yoke_meditation_4/",
+        "name": "Controcorrente by Antonia Cavaliere",
+        "image": "images/controcorrente_crop.jpg",
+        "url": "/portfolio/controcorrente/",
         "items": [
             {
-                "name": "Garments",
-                "url": "/categories/garments"
-            },
-            {
-                "name": "Colorwork",
-                "url": "/categories/colorwork"
+                "name": "Shawls",
+                "url": "/categories/shawls"
             },
             {
                 "name": "Adults",
@@ -36,76 +80,16 @@
         ]
     },
 {
-        "id": 99,
-        "name": "Smilgas Cardigan by Zaneteknits",
-        "image": "images/smilgas_cardigan_crop.jpg",
-        "url": "/portfolio/smilgas_cardigan/",
+        "id": 98,
+        "name": "Nexxus by Natasja Hornby",
+        "image": "images/nexxus_crop.jpg",
+        "url": "/portfolio/nexxus/",
         "items": [
             {
                 "name": "Garments",
                 "url": "/categories/garments"
             },
             {
-                "name": "Colorwork",
-                "url": "/categories/colorwork"
-            },
-            {
-                "name": "Adults",
-                "url": "/categories/adults"
-            }
-        ]
-    },
-{
-        "id": 99,
-        "name": "Zalktis Pullover by Zaneteknits",
-        "image": "images/zalktis_pullover_crop.jpeg",
-        "url": "/portfolio/zalktis_pullover/",
-        "items": [
-            {
-                "name": "Garments",
-                "url": "/categories/garments"
-            },
-            {
-                "name": "Colorwork",
-                "url": "/categories/colorwork"
-            },
-            {
-                "name": "Adults",
-                "url": "/categories/adults"
-            }
-        ]
-    },
-{
-        "id": 100,
-        "name": "Finer Pagan Sky by Zaneteknits",
-        "image": "images/finer_pagan_sky_cropped.jpg",
-        "url": "/portfolio/finer_pagan_sky/",
-        "items": [
-            {
-                "name": "Garments",
-                "url": "/categories/garments"
-            },
-            {
-                "name": "Colorwork",
-                "url": "/categories/colorwork"
-            },
-            {
-                "name": "Adults",
-                "url": "/categories/adults"
-            }
-        ]
-    },
-    {
-        "id": 101,
-        "name": "Valmiera Memory Socks by Zaneteknits",
-        "image": "images/valmiera_memory_socks_cropped.jpg",
-        "url": "/portfolio/valmiera_memory_socks/",
-        "items": [
-            {
-                "name": "Socks",
-                "url": "/categories/socks_and_mitts"
-            },
-			{
                 "name": "Colorwork",
                 "url": "/categories/colorwork"
             },
