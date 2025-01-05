@@ -9,6 +9,8 @@ Quick guide how to assemble cardigan knitted from bottom up.
 
 <!--more-->
 
+If you would rather watch video, how to asseble the body and sleeves before working the yoke, you can watch [this video on my Youtube channel](https://youtu.be/jrQOdeTs24E?si=TkOF5iGhirv85klY).
+
 Here are all the parts worked:
 - two sleeves on stitch holder
 - and the body on the working needles.
