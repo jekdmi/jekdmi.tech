@@ -43,35 +43,53 @@ theme = "hugo-initio"
     url = "/post/"
     weight = 5
 [[menu.main]]
+    name = "Jekdmi.Designs"
+    url = "/jekdmi.designs/"
+    weight = 6
+[[menu.main]]
+    name = "adi latviski"
+    url = "/adilatviski/"
+    weight = 7
+[[menu.main]]
     name = "garments"
 	parent = "portfolio"
     url = "/categories/garments"
-    weight = 7	
+    weight = 8	
 [[menu.main]]
     name = "socks and mitts"
 	parent = "portfolio"
     url = "/categories/socks_and_mitts"
-    weight = 8	
+    weight = 9	
 [[menu.main]]
     name = "shawls, cowls, scarfs"
 	parent = "portfolio"
     url = "/categories/shawls"
-    weight = 9
+    weight = 10
 [[menu.main]]
     name = "hats"
 	parent = "portfolio"
     url = "/categories/hats"
-    weight = 10
+    weight = 11
 [[menu.main]]
     name = "other knits"
 	parent = "portfolio"
     url = "/categories/other_knits"
-    weight = 11
+    weight = 12
 [[menu.main]]
     name = "editing for publications"
 	parent = "portfolio"
     url = "/categories/publications"
     weight = 13
+[[menu.main]]
+    name = "Errata"
+	parent = "Jekdmi.Designs"
+    url = "/jekdmi.designs/errata"
+    weight = 15
+[[menu.main]]
+    name = "apzīmējumi"
+	parent = "adi latviski"
+    url = "/adilatviski/apzimejumi"
+    weight = 15
 
 [params.disqus]
     site = "jekdmi-tech.disqus.com"
